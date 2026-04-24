@@ -1,0 +1,40 @@
+name: Generate Agile Forecast
+
+on:
+  schedule:
+    # Runs at 15:30 UTC every day (afternoon)
+    - cron: '30 15 * * *' 
+  workflow_dispatch: # This adds a "Run Now" button for testing
+
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install Machine Learning Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas xgboost scikit-learn requests
+
+    - name: Run Prediction Engine
+      # We will add API keys here in the next phase
+      run: python predict.py
+
+    - name: Commit and Push Forecast to Repo
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add forecast.json
+        # The '|| exit 0' prevents it from crashing if the price hasn't changed
+        git commit -m "Automated update: New 48hr Agile Forecast" || exit 0
+        git push
