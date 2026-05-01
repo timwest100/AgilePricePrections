@@ -1,7 +1,7 @@
 {
   "rates": [
     {
-      "deliveryStart": "2026-04-30T16:53:00Z",
+      "deliveryStart": "2026-05-01T16:30:00Z",
       "agileRate": {
         "result": {
           "rate": 15.5
@@ -9,7 +9,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T17:23:00Z",
+      "deliveryStart": "2026-05-01T17:00:00Z",
       "agileRate": {
         "result": {
           "rate": 15.6
@@ -17,7 +17,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T17:53:00Z",
+      "deliveryStart": "2026-05-01T17:30:00Z",
       "agileRate": {
         "result": {
           "rate": 15.7
@@ -25,7 +25,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T18:23:00Z",
+      "deliveryStart": "2026-05-01T18:00:00Z",
       "agileRate": {
         "result": {
           "rate": 15.8
@@ -33,7 +33,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T18:53:00Z",
+      "deliveryStart": "2026-05-01T18:30:00Z",
       "agileRate": {
         "result": {
           "rate": 15.9
@@ -41,7 +41,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T19:23:00Z",
+      "deliveryStart": "2026-05-01T19:00:00Z",
       "agileRate": {
         "result": {
           "rate": 16.0
@@ -49,7 +49,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T19:53:00Z",
+      "deliveryStart": "2026-05-01T19:30:00Z",
       "agileRate": {
         "result": {
           "rate": 16.1
@@ -57,7 +57,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T20:23:00Z",
+      "deliveryStart": "2026-05-01T20:00:00Z",
       "agileRate": {
         "result": {
           "rate": 16.2
@@ -65,7 +65,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T20:53:00Z",
+      "deliveryStart": "2026-05-01T20:30:00Z",
       "agileRate": {
         "result": {
           "rate": 16.3
@@ -73,7 +73,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T21:23:00Z",
+      "deliveryStart": "2026-05-01T21:00:00Z",
       "agileRate": {
         "result": {
           "rate": 16.4
@@ -81,7 +81,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T21:53:00Z",
+      "deliveryStart": "2026-05-01T21:30:00Z",
       "agileRate": {
         "result": {
           "rate": 16.5
@@ -89,7 +89,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T22:23:00Z",
+      "deliveryStart": "2026-05-01T22:00:00Z",
       "agileRate": {
         "result": {
           "rate": 16.6
@@ -97,7 +97,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T22:53:00Z",
+      "deliveryStart": "2026-05-01T22:30:00Z",
       "agileRate": {
         "result": {
           "rate": 16.7
@@ -105,7 +105,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T23:23:00Z",
+      "deliveryStart": "2026-05-01T23:00:00Z",
       "agileRate": {
         "result": {
           "rate": 16.8
@@ -113,7 +113,7 @@
       }
     },
     {
-      "deliveryStart": "2026-04-30T23:53:00Z",
+      "deliveryStart": "2026-05-01T23:30:00Z",
       "agileRate": {
         "result": {
           "rate": 16.9
@@ -121,7 +121,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T00:23:00Z",
+      "deliveryStart": "2026-05-02T00:00:00Z",
       "agileRate": {
         "result": {
           "rate": 17.0
@@ -129,7 +129,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T00:53:00Z",
+      "deliveryStart": "2026-05-02T00:30:00Z",
       "agileRate": {
         "result": {
           "rate": 17.1
@@ -137,7 +137,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T01:23:00Z",
+      "deliveryStart": "2026-05-02T01:00:00Z",
       "agileRate": {
         "result": {
           "rate": 17.2
@@ -145,7 +145,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T01:53:00Z",
+      "deliveryStart": "2026-05-02T01:30:00Z",
       "agileRate": {
         "result": {
           "rate": 17.3
@@ -153,7 +153,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T02:23:00Z",
+      "deliveryStart": "2026-05-02T02:00:00Z",
       "agileRate": {
         "result": {
           "rate": 17.4
@@ -161,7 +161,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T02:53:00Z",
+      "deliveryStart": "2026-05-02T02:30:00Z",
       "agileRate": {
         "result": {
           "rate": 17.5
@@ -169,7 +169,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T03:23:00Z",
+      "deliveryStart": "2026-05-02T03:00:00Z",
       "agileRate": {
         "result": {
           "rate": 17.6
@@ -177,7 +177,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T03:53:00Z",
+      "deliveryStart": "2026-05-02T03:30:00Z",
       "agileRate": {
         "result": {
           "rate": 17.7
@@ -185,7 +185,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T04:23:00Z",
+      "deliveryStart": "2026-05-02T04:00:00Z",
       "agileRate": {
         "result": {
           "rate": 17.8
@@ -193,7 +193,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T04:53:00Z",
+      "deliveryStart": "2026-05-02T04:30:00Z",
       "agileRate": {
         "result": {
           "rate": 17.9
@@ -201,7 +201,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T05:23:00Z",
+      "deliveryStart": "2026-05-02T05:00:00Z",
       "agileRate": {
         "result": {
           "rate": 18.0
@@ -209,7 +209,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T05:53:00Z",
+      "deliveryStart": "2026-05-02T05:30:00Z",
       "agileRate": {
         "result": {
           "rate": 18.1
@@ -217,7 +217,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T06:23:00Z",
+      "deliveryStart": "2026-05-02T06:00:00Z",
       "agileRate": {
         "result": {
           "rate": 18.2
@@ -225,7 +225,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T06:53:00Z",
+      "deliveryStart": "2026-05-02T06:30:00Z",
       "agileRate": {
         "result": {
           "rate": 18.3
@@ -233,7 +233,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T07:23:00Z",
+      "deliveryStart": "2026-05-02T07:00:00Z",
       "agileRate": {
         "result": {
           "rate": 18.4
@@ -241,7 +241,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T07:53:00Z",
+      "deliveryStart": "2026-05-02T07:30:00Z",
       "agileRate": {
         "result": {
           "rate": 18.5
@@ -249,7 +249,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T08:23:00Z",
+      "deliveryStart": "2026-05-02T08:00:00Z",
       "agileRate": {
         "result": {
           "rate": 18.6
@@ -257,7 +257,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T08:53:00Z",
+      "deliveryStart": "2026-05-02T08:30:00Z",
       "agileRate": {
         "result": {
           "rate": 18.7
@@ -265,7 +265,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T09:23:00Z",
+      "deliveryStart": "2026-05-02T09:00:00Z",
       "agileRate": {
         "result": {
           "rate": 18.8
@@ -273,7 +273,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T09:53:00Z",
+      "deliveryStart": "2026-05-02T09:30:00Z",
       "agileRate": {
         "result": {
           "rate": 18.9
@@ -281,7 +281,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T10:23:00Z",
+      "deliveryStart": "2026-05-02T10:00:00Z",
       "agileRate": {
         "result": {
           "rate": 19.0
@@ -289,7 +289,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T10:53:00Z",
+      "deliveryStart": "2026-05-02T10:30:00Z",
       "agileRate": {
         "result": {
           "rate": 19.1
@@ -297,7 +297,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T11:23:00Z",
+      "deliveryStart": "2026-05-02T11:00:00Z",
       "agileRate": {
         "result": {
           "rate": 19.2
@@ -305,7 +305,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T11:53:00Z",
+      "deliveryStart": "2026-05-02T11:30:00Z",
       "agileRate": {
         "result": {
           "rate": 19.3
@@ -313,7 +313,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T12:23:00Z",
+      "deliveryStart": "2026-05-02T12:00:00Z",
       "agileRate": {
         "result": {
           "rate": 19.4
@@ -321,7 +321,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T12:53:00Z",
+      "deliveryStart": "2026-05-02T12:30:00Z",
       "agileRate": {
         "result": {
           "rate": 19.5
@@ -329,7 +329,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T13:23:00Z",
+      "deliveryStart": "2026-05-02T13:00:00Z",
       "agileRate": {
         "result": {
           "rate": 19.6
@@ -337,7 +337,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T13:53:00Z",
+      "deliveryStart": "2026-05-02T13:30:00Z",
       "agileRate": {
         "result": {
           "rate": 19.7
@@ -345,7 +345,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T14:23:00Z",
+      "deliveryStart": "2026-05-02T14:00:00Z",
       "agileRate": {
         "result": {
           "rate": 19.8
@@ -353,7 +353,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T14:53:00Z",
+      "deliveryStart": "2026-05-02T14:30:00Z",
       "agileRate": {
         "result": {
           "rate": 19.9
@@ -361,7 +361,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T15:23:00Z",
+      "deliveryStart": "2026-05-02T15:00:00Z",
       "agileRate": {
         "result": {
           "rate": 20.0
@@ -369,7 +369,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T15:53:00Z",
+      "deliveryStart": "2026-05-02T15:30:00Z",
       "agileRate": {
         "result": {
           "rate": 20.1
@@ -377,7 +377,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T16:23:00Z",
+      "deliveryStart": "2026-05-02T16:00:00Z",
       "agileRate": {
         "result": {
           "rate": 20.2
@@ -385,7 +385,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T16:53:00Z",
+      "deliveryStart": "2026-05-02T16:30:00Z",
       "agileRate": {
         "result": {
           "rate": 20.3
@@ -393,7 +393,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T17:23:00Z",
+      "deliveryStart": "2026-05-02T17:00:00Z",
       "agileRate": {
         "result": {
           "rate": 20.4
@@ -401,7 +401,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T17:53:00Z",
+      "deliveryStart": "2026-05-02T17:30:00Z",
       "agileRate": {
         "result": {
           "rate": 20.5
@@ -409,7 +409,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T18:23:00Z",
+      "deliveryStart": "2026-05-02T18:00:00Z",
       "agileRate": {
         "result": {
           "rate": 20.6
@@ -417,7 +417,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T18:53:00Z",
+      "deliveryStart": "2026-05-02T18:30:00Z",
       "agileRate": {
         "result": {
           "rate": 20.7
@@ -425,7 +425,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T19:23:00Z",
+      "deliveryStart": "2026-05-02T19:00:00Z",
       "agileRate": {
         "result": {
           "rate": 20.8
@@ -433,7 +433,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T19:53:00Z",
+      "deliveryStart": "2026-05-02T19:30:00Z",
       "agileRate": {
         "result": {
           "rate": 20.9
@@ -441,7 +441,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T20:23:00Z",
+      "deliveryStart": "2026-05-02T20:00:00Z",
       "agileRate": {
         "result": {
           "rate": 21.0
@@ -449,7 +449,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T20:53:00Z",
+      "deliveryStart": "2026-05-02T20:30:00Z",
       "agileRate": {
         "result": {
           "rate": 21.1
@@ -457,7 +457,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T21:23:00Z",
+      "deliveryStart": "2026-05-02T21:00:00Z",
       "agileRate": {
         "result": {
           "rate": 21.2
@@ -465,7 +465,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T21:53:00Z",
+      "deliveryStart": "2026-05-02T21:30:00Z",
       "agileRate": {
         "result": {
           "rate": 21.3
@@ -473,7 +473,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T22:23:00Z",
+      "deliveryStart": "2026-05-02T22:00:00Z",
       "agileRate": {
         "result": {
           "rate": 21.4
@@ -481,7 +481,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T22:53:00Z",
+      "deliveryStart": "2026-05-02T22:30:00Z",
       "agileRate": {
         "result": {
           "rate": 21.5
@@ -489,7 +489,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T23:23:00Z",
+      "deliveryStart": "2026-05-02T23:00:00Z",
       "agileRate": {
         "result": {
           "rate": 21.6
@@ -497,7 +497,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-01T23:53:00Z",
+      "deliveryStart": "2026-05-02T23:30:00Z",
       "agileRate": {
         "result": {
           "rate": 21.7
@@ -505,7 +505,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T00:23:00Z",
+      "deliveryStart": "2026-05-03T00:00:00Z",
       "agileRate": {
         "result": {
           "rate": 21.8
@@ -513,7 +513,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T00:53:00Z",
+      "deliveryStart": "2026-05-03T00:30:00Z",
       "agileRate": {
         "result": {
           "rate": 21.9
@@ -521,7 +521,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T01:23:00Z",
+      "deliveryStart": "2026-05-03T01:00:00Z",
       "agileRate": {
         "result": {
           "rate": 22.0
@@ -529,7 +529,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T01:53:00Z",
+      "deliveryStart": "2026-05-03T01:30:00Z",
       "agileRate": {
         "result": {
           "rate": 22.1
@@ -537,7 +537,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T02:23:00Z",
+      "deliveryStart": "2026-05-03T02:00:00Z",
       "agileRate": {
         "result": {
           "rate": 22.2
@@ -545,7 +545,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T02:53:00Z",
+      "deliveryStart": "2026-05-03T02:30:00Z",
       "agileRate": {
         "result": {
           "rate": 22.3
@@ -553,7 +553,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T03:23:00Z",
+      "deliveryStart": "2026-05-03T03:00:00Z",
       "agileRate": {
         "result": {
           "rate": 22.4
@@ -561,7 +561,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T03:53:00Z",
+      "deliveryStart": "2026-05-03T03:30:00Z",
       "agileRate": {
         "result": {
           "rate": 22.5
@@ -569,7 +569,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T04:23:00Z",
+      "deliveryStart": "2026-05-03T04:00:00Z",
       "agileRate": {
         "result": {
           "rate": 22.6
@@ -577,7 +577,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T04:53:00Z",
+      "deliveryStart": "2026-05-03T04:30:00Z",
       "agileRate": {
         "result": {
           "rate": 22.7
@@ -585,7 +585,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T05:23:00Z",
+      "deliveryStart": "2026-05-03T05:00:00Z",
       "agileRate": {
         "result": {
           "rate": 22.8
@@ -593,7 +593,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T05:53:00Z",
+      "deliveryStart": "2026-05-03T05:30:00Z",
       "agileRate": {
         "result": {
           "rate": 22.9
@@ -601,7 +601,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T06:23:00Z",
+      "deliveryStart": "2026-05-03T06:00:00Z",
       "agileRate": {
         "result": {
           "rate": 23.0
@@ -609,7 +609,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T06:53:00Z",
+      "deliveryStart": "2026-05-03T06:30:00Z",
       "agileRate": {
         "result": {
           "rate": 23.1
@@ -617,7 +617,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T07:23:00Z",
+      "deliveryStart": "2026-05-03T07:00:00Z",
       "agileRate": {
         "result": {
           "rate": 23.2
@@ -625,7 +625,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T07:53:00Z",
+      "deliveryStart": "2026-05-03T07:30:00Z",
       "agileRate": {
         "result": {
           "rate": 23.3
@@ -633,7 +633,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T08:23:00Z",
+      "deliveryStart": "2026-05-03T08:00:00Z",
       "agileRate": {
         "result": {
           "rate": 23.4
@@ -641,7 +641,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T08:53:00Z",
+      "deliveryStart": "2026-05-03T08:30:00Z",
       "agileRate": {
         "result": {
           "rate": 23.5
@@ -649,7 +649,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T09:23:00Z",
+      "deliveryStart": "2026-05-03T09:00:00Z",
       "agileRate": {
         "result": {
           "rate": 23.6
@@ -657,7 +657,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T09:53:00Z",
+      "deliveryStart": "2026-05-03T09:30:00Z",
       "agileRate": {
         "result": {
           "rate": 23.700000000000003
@@ -665,7 +665,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T10:23:00Z",
+      "deliveryStart": "2026-05-03T10:00:00Z",
       "agileRate": {
         "result": {
           "rate": 23.8
@@ -673,7 +673,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T10:53:00Z",
+      "deliveryStart": "2026-05-03T10:30:00Z",
       "agileRate": {
         "result": {
           "rate": 23.9
@@ -681,7 +681,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T11:23:00Z",
+      "deliveryStart": "2026-05-03T11:00:00Z",
       "agileRate": {
         "result": {
           "rate": 24.0
@@ -689,7 +689,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T11:53:00Z",
+      "deliveryStart": "2026-05-03T11:30:00Z",
       "agileRate": {
         "result": {
           "rate": 24.1
@@ -697,7 +697,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T12:23:00Z",
+      "deliveryStart": "2026-05-03T12:00:00Z",
       "agileRate": {
         "result": {
           "rate": 24.200000000000003
@@ -705,7 +705,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T12:53:00Z",
+      "deliveryStart": "2026-05-03T12:30:00Z",
       "agileRate": {
         "result": {
           "rate": 24.3
@@ -713,7 +713,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T13:23:00Z",
+      "deliveryStart": "2026-05-03T13:00:00Z",
       "agileRate": {
         "result": {
           "rate": 24.4
@@ -721,7 +721,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T13:53:00Z",
+      "deliveryStart": "2026-05-03T13:30:00Z",
       "agileRate": {
         "result": {
           "rate": 24.5
@@ -729,7 +729,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T14:23:00Z",
+      "deliveryStart": "2026-05-03T14:00:00Z",
       "agileRate": {
         "result": {
           "rate": 24.6
@@ -737,7 +737,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T14:53:00Z",
+      "deliveryStart": "2026-05-03T14:30:00Z",
       "agileRate": {
         "result": {
           "rate": 24.700000000000003
@@ -745,7 +745,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T15:23:00Z",
+      "deliveryStart": "2026-05-03T15:00:00Z",
       "agileRate": {
         "result": {
           "rate": 24.8
@@ -753,7 +753,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T15:53:00Z",
+      "deliveryStart": "2026-05-03T15:30:00Z",
       "agileRate": {
         "result": {
           "rate": 24.9
@@ -761,7 +761,7 @@
       }
     },
     {
-      "deliveryStart": "2026-05-02T16:23:00Z",
+      "deliveryStart": "2026-05-03T16:00:00Z",
       "agileRate": {
         "result": {
           "rate": 25.0
